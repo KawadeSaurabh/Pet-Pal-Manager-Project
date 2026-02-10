@@ -1,0 +1,32 @@
+{
+  "id": "c04f366d-903c-418e-9d9f-1d5c05067744",
+  "name": "BusinessCentralReports",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50200
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.1",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
